@@ -21,7 +21,7 @@ import pandas as pd
 # YOUR CODE HERE 1 to set data
 x=np.random.rand(1000)
 y=np.random.rand(1000)
-data=pd.DaraFrame()
+data=pd.DataFrame()
 data["x"]=x
 data["y"]=y
 
