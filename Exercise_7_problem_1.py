@@ -63,6 +63,10 @@ plt.scatter(x,y,s=50,c='black',cmap='rainbow',edgecolor='red')
 
 # Add labels and title
 # YOUR CODE HERE 4
+plt.title("MY tandom candy points")
+plt.xlabel("X-labels")
+plt.ylabel("Y-labels")
+plt.show()
 
 # Save the plot as a png file:
 outputfp = "my_first_plot.png"
