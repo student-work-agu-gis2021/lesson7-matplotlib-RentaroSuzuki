@@ -69,6 +69,7 @@ outputfp = ""
 
 # Save plot as image
 # YOUR CODE HERE 4
+plt.savefig(outputfp)
 
 import os
 
